@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class _69_Sqrt_x {
+public class _0069_Sqrt_x {
     static int mySqrt(int x) {
         int low = 0;
         int high = x;
