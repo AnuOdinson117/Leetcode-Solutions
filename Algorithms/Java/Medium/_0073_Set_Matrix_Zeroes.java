@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class _73_Set_Matrix_Zeroes {
+public class _0073_Set_Matrix_Zeroes {
     static void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
