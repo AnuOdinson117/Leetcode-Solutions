@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class _0231_Power_of_Two {
     public static boolean isPowerOfTwo(int n) {
