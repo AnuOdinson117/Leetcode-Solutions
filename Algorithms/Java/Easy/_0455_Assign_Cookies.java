@@ -31,6 +31,7 @@ public class _0455_Assign_Cookies {
         for(int j = 0; j < n; j++) {
             size[j] = sc.nextInt();
         }
+        sc.close();
         System.out.print(findContentChildren(greed, size));
     }
 }
