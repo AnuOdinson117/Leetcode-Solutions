@@ -1,4 +1,1 @@
-# the day is sunny the the
-# the sunny is is
-
 cat words.txt | tr -s " " "\n" | sort | uniq -c | sort -r | awk '{print $2, $1}'
